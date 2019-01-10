@@ -1,0 +1,176 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "type": "image",
+      "title": "Where is logic",
+      "src": "4skcofasa1p01.png",
+      "text": "",
+      "author": "Wokay",
+      "src_abs": "https://scontent-waw1-1.xx.fbcdn.net/v/t1.0-9/42705326_1378882385576687_8828065866860986368_n.jpg?_nc_cat=108&_nc_ht=scontent-waw1-1.xx&oh=a404eb2b3f389a44991908c8a87ab679&oe=5C8FB67A",
+      "is_abs": 1,
+      "likes": 4,
+      "createdAt": "2019-12-02"
+    },
+    {
+      "likes": 59,
+      "id": 4,
+      "type": "image",
+      "title": "Always after 5 minutes",
+      "text": "",
+      "src": "12c5f03f6ecf40c8412f04568b489b63eb2466814b6f5e8add668aa5f0518c40.jpg",
+      "author": "Trump",
+      "createdAt": "2019-11-02"
+    },
+    {
+      "id": 5,
+      "type": "image",
+      "title": "I hope i am better",
+      "text": "",
+      "src": "64fa8ba87927253de443b85f46f6574b.jpg",
+      "author": "Wokay",
+      "likes": 22,
+      "createdAt": "2019-11-02"
+    },
+    {
+      "id": 6,
+      "type": "text",
+      "title": "Where is logic",
+      "text": "Why couldn’t the React component understand the joke? a. Because it didn’t get the context.",
+      "src": "",
+      "author": "Wokay",
+      "likes": 5,
+      "createdAt": "2019-11-02"
+    },
+    {
+      "id": 7,
+      "type": "image",
+      "title": "Framewooorks!",
+      "text": "",
+      "src": "12366409_891576684290900_2269550398187171901_n.jpg",
+      "author": "Wokay",
+      "likes": 6,
+      "createdAt": "2019-11-02"
+    },
+    {
+      "id": 9,
+      "type": "text",
+      "title": "Where is logic",
+      "text": "Why did the C# developer fall asleep? a. Because he didn’t like Java.",
+      "src": "",
+      "author": "Wokay",
+      "likes": 5,
+      "createdAt": "2019-11-02"
+    },
+    {
+      "id": 10,
+      "type": "text",
+      "title": "Where is logic",
+      "text": "When a JavaScript date has gone bad, “Don’t call me, I’ll callback you. I promise!”",
+      "src": "",
+      "author": "Wokay",
+      "likes": 5,
+      "createdAt": "2019-11-02"
+    },
+    {
+      "id": 11,
+      "type": "image",
+      "title": "Array insertion",
+      "text": "",
+      "src": "array-16-join-wat-1-batman-nannannannannannannannannannannannannannannan-batman-heeeeres-4-javascript-javascript-31765184.png",
+      "author": "Wokay",
+      "likes": 5,
+      "createdAt": "2019-11-02"
+    },
+    {
+      "id": 12,
+      "type": "image",
+      "title": "No call back anymore",
+      "text": "",
+      "src": "comment_xQOwIviSuUMMi6WtNcMHK2btvjg1bTyY.jpg",
+      "author": "Wokay",
+      "likes": 5,
+      "createdAt": "2019-11-02"
+    },
+    {
+      "id": 13,
+      "type": "text",
+      "title": "Where is logic",
+      "text": "The best thing about a boolean is even if you are wrong, you are only off by a bit.",
+      "src": "",
+      "author": "Wokay",
+      "likes": 5,
+      "createdAt": "2019-11-02"
+    },
+    {
+      "id": 14,
+      "type": "text",
+      "title": "Before software",
+      "text": "Before software can be reusable it first has to be usable.",
+      "src": "",
+      "author": "Wokay",
+      "likes": 5,
+      "createdAt": "2019-11-02"
+    },
+    {
+      "id": 15,
+      "type": "text",
+      "title": "Understanding",
+      "text": "In order to understand recursion, one must first understand recursion.",
+      "src": "",
+      "author": "Wokay",
+      "likes": 5,
+      "createdAt": "2019-11-02"
+    },
+    {
+      "id": 16,
+      "type": "image",
+      "title": "How learn java",
+      "text": "",
+      "src": "eb604e6890526e2c3e6ade9dc5a0eb54.jpg",
+      "author": "Wokay",
+      "likes": 5,
+      "createdAt": "2019-11-02"
+    },
+    {
+      "id": 17,
+      "type": "image",
+      "title": "Developers Everywhere",
+      "text": "",
+      "src": "images.jpeg",
+      "author": "Wokay",
+      "likes": 5,
+      "createdAt": "2019-11-02"
+    },
+    {
+      "id": 18,
+      "type": "image",
+      "title": "Js Joke",
+      "text": "",
+      "src": "js_joke.jpeg",
+      "author": "Wokay",
+      "likes": 5,
+      "createdAt": "2019-11-02"
+    },
+    {
+      "id": 19,
+      "type": "image",
+      "title": "what am i doing here",
+      "text": "",
+      "src": "js_no_idea.jpg",
+      "author": "Wokay",
+      "likes": 5,
+      "createdAt": "2019-11-02"
+    },
+    {
+      "id": 20,
+      "type": "image",
+      "title": "Objects",
+      "text": "",
+      "src": "welcome-to-javascript-where-the-objects-are-made-up-and-13411868.png",
+      "author": "Wokay",
+      "likes": 5,
+      "createdAt": "2019-11-02"
+    }
+  ]
+}
