@@ -1,7 +1,7 @@
-#Backend Aplikacji 9JS
-#####Projekt przygotowany na potrzebe warsztatów PWA dla WarsawJs
+# Backend Aplikacji 9JS
+##### Projekt przygotowany na potrzebe warsztatów PWA dla WarsawJs
 
-##Instalacja
+## Instalacja
 Instalacja globalna dodatku
 
 ```npm install -g json-server```
